@@ -1,6 +1,6 @@
 # KRYPTrader-AI
 
-An artificial intelligence to trade cryptocurrency based off future market predictions constructed from historical market data, relevant financial trends, and social media metrics. This project includes a collection of miscellaneous python scripts for cryptocurrency investing, trading, and data analysis.
+An artificial intelligence to trade cryptocurrency based on future market predictions constructed from historical market data, relevant financial trends, and social media metrics. This project includes a collection of miscellaneous python scripts for cryptocurrency investing, trading, and data analysis.
 
 *This project is currently under development*
 
